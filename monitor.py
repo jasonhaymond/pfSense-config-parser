@@ -170,7 +170,7 @@ def monitor_directory(paths_to_watch):
 if __name__ == "__main__":
     # Set the directories to monitor (replace with paths as needed)
     paths_to_watch = [
-        
+        # Add directories here separated by commas (one per line).
     ]
 
     if not paths_to_watch:
